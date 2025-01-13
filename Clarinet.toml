@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.microscopic-wormhole-creation]
+path = 'contracts/microscopic-wormhole-creation.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.quantum-foam-observations]
 path = 'contracts/quantum-foam-observations.clar'
 clarity_version = 2

@@ -9,3 +9,5 @@ W
 .contracts/spacetime-curvature-experiments.clar,f/c/fc836f731271ab457a6dc1dcfaff631eb3bd0d48
 ]
 -tests/spacetime-curvature-experiments.test.ts,4/a/4aa87a0f081fa66ae04d05d7ce0a11ba58cc88ce
+\
+,contracts/microscopic-wormhole-creation.clar,6/d/6d74c2f52353845f610cb2db6f58c267f16994dc
